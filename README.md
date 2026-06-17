@@ -1,6 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:001f3f,50:005f73,100:0a9396&animation=twinkling"/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:001f3f,50:005f73,100:0a9396&text=🏴‍☠️%20Captain%20Natalia&fontColor=F4D35E&fontSize=60&animation=fadeIn"/>
+
+<p align="center">
+<img src="https://media.tenor.com/1Qh7L6k8tLQAAAAd/ship-sailing.gif" width="600">
+</p>
 
 <h1 align="center">⚓ Ahoy, Traveler! ⚓</h1>
 
