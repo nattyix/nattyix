@@ -6,9 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=28&duration=2500&pause=1000&color=F4C430&center=true&vCenter=true&width=900&lines=🏴‍☠️+Captain+Natalia+Mathews;🌊+Sailing+the+Seas+of+Technology;🤖+AI+Explorer;🐋+Healthcare+AI+Researcher;⚓+Always+Learning+New+Horizons" />
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="500">
-</p>
+
 
 ---
 
