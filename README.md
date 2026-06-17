@@ -1,26 +1,41 @@
-<h1 align="center">🏴‍☠️ Ahoy, I'm Natalia Mathews!</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:001f3f,50:005f73,100:0a9396&text=🏴‍☠️%20Captain%20Natalia&fontColor=F4D35E&fontSize=60&animation=fadeIn"/>
+
+<h1 align="center">⚓ Ahoy, Traveler! ⚓</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=28&duration=3000&pause=1000&color=F4C430&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Web+Developer;Healthcare+AI+Researcher;Sailing+the+Seas+of+Technology" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=28&duration=2500&pause=1000&color=F4C430&center=true&vCenter=true&width=900&lines=🏴‍☠️+Captain+Natalia+Mathews;🌊+Sailing+the+Seas+of+Technology;🤖+AI+Explorer;🐋+Healthcare+AI+Researcher;⚓+Always+Learning+New+Horizons" />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="500">
 </p>
 
 ---
 
-## ⚓ About The Captain
+# 🌊 About The Captain
 
-🏴‍☠️ Sophomore passionate about AI, Healthcare Technology, and Web Development
+```text
+Name       : Natalia Mathews
+Role       : AI Enthusiast
+Location   : Somewhere Across The Digital Ocean 🌊
+Mission    : Building Technology That Creates Impact
+```
+
+🏴‍☠️ Sophomore passionate about AI, Healthcare Technology and Web Development
 
 🌊 Exploring Medical Imaging and Deep Learning
 
-⚓ Member of Microsoft Student Club
+⚓ Microsoft Student Club Member
 
-🧭 Always learning new technologies and building impactful projects
+🎨 Artist • Reader • Traveler
 
-🎨 Artist, Reader, Traveler
+🧭 Always searching for new adventures in technology
 
 ---
 
-## 🗺️ Captain's Arsenal
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+# ⚔️ Captain's Arsenal
 
 <p align="center">
 
@@ -39,54 +54,101 @@
 
 ---
 
-## 💎 Treasure Chest
+# 💎 Treasure Chest
 
-| Treasure | Description |
-|-----------|-------------|
-| 🐬 Movie Recommendation System | Content-based movie recommendation engine |
-| 🦈 Shark Attack Game | Turtle graphics arcade game |
-| 🐢 Morse Code Converter | Encrypts and decrypts Morse messages |
-| 🐙 Maternal Risk Prediction AI | Healthcare AI prediction system |
-| 🐋 Pneumonia Detection | Deep Learning X-ray classifier |
+### 🧠 Fetal Brain Classification
+A deep learning-based medical imaging project focused on classifying fetal brain ultrasound images, leveraging AI techniques to support prenatal diagnosis and analysis.
 
 ---
 
-## 🌊 GitHub Stats
+### 🦟 Automated Malaria Detection with 5G Telemedicine
+A smart healthcare solution that combines AI-based malaria detection with 5G telemedicine infrastructure, enabling rapid diagnosis and remote medical assistance in underserved areas.
+
+---
+
+### 📡 LAN Notify
+A local network communication system that enables instant notifications and messaging across devices connected within the same LAN environment.
+
+---
+
+### 🧠 Brain Tumor Detection
+A deep learning-powered medical imaging system that analyzes MRI scans to detect and classify brain tumors, assisting healthcare professionals in diagnosis.
+
+---
+
+### 🐢 Morse Code Converter
+Convert messages to and from Morse code.
+
+
+
+---
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+# 📊 Ocean Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nattyix&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nattyix&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyix&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyix&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Sea Serpent of Contributions
+# 🏝️ Captain's Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyix&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🦜 Message in a Bottle
+# 🐍 Sea Serpent of Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# ⚓ Current Voyage
+
+```text
+🌊 Learning MONAI
+🤖 Medical Imaging AI
+🐋 Deep Learning
+⚓ Open Source Exploration
+🧭 Building Real-World AI Projects
+```
+
+---
+
+# 🦜 Message In A Bottle
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://github.com/nattyix">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="www.linkedin.com/in/natalia-mathews21 ">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:natmathews21@gmail.com ">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
 
 ---
 
-### ☠️ Pirate's Motto
+<p align="center">
+⚓ "Not all treasure is silver and gold, mate. Sometimes it's knowledge."
+</p>
 
-> "Not all treasure is silver and gold, mate. Sometimes it's knowledge."
+<p align="center">
+🌙 May your code compile and your bugs sink to the depths 🌊
+</p>
 
-🌙 Thanks for visiting my shipyard!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:001f3f,50:005f73,100:0a9396"/>
