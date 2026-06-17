@@ -19,11 +19,9 @@ Location   : Somewhere Across The Digital Ocean 🌊
 Mission    : Building Technology That Creates Impact
 ```
 
-🏴‍☠️ Sophomore passionate about AI, Healthcare Technology and Web Development
+🏴‍☠️ Passionate about AI, Machine Learning, Healthcare Technology 
 
 🌊 Exploring Medical Imaging and Deep Learning
-
-⚓ Microsoft Student Club Member
 
 🎨 Artist • Reader • Traveler
 
@@ -40,11 +38,12 @@ Mission    : Building Technology That Creates Impact
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
 <img src="https://skillicons.dev/icons?i=flask" />
 <img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://skillicons.dev/icons?i=opencv" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 
@@ -133,7 +132,7 @@ Convert messages to and from Morse code.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:natmathews21@gmail.com ">
+<a href="natmathews21@gmail.com ">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
 </a>
 
