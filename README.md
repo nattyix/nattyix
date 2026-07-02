@@ -34,9 +34,8 @@ Open to       :  Research collaborations, internships, and AI/ML roles
 | **Languages** | Python · Java · C |
 | **Deep Learning** | PyTorch · TensorFlow · MONAI · scikit-learn |
 | **Computer Vision** | OpenCV · Grad-CAM / Score-CAM · SHAP |
-| **Deployment** | Flask · Streamlit · Render · FastAPI |
-| **Data & Geo** | PostgreSQL / PostGIS · Folium · Mapbox |
-| **Tooling** | Git · GitHub · VS Code · PyCharm |
+| **Deployment** | Flask · Streamlit · Render |
+| **Tooling** | Git · GitHub · VS Code |
 
 </div>
 
