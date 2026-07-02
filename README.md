@@ -18,8 +18,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 ## About
-
-Like the ocean, good AI work runs deeper than the surface. I'm a student working at the intersection of computer vision, medical imaging, and environmental sensing — turning research prototypes into deployed, explainable systems.
+I'm Natalia Mathews. An engineering student exploring artificial intelligence, machine learning, and computer vision. I find there's always more beneath the surface.
 
 ```text
 Focus areas   :  Medical Imaging AI · Computer Vision · Multimodal Fusion
