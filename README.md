@@ -1,151 +1,101 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:001f3f,50:005f73,100:0a9396&text=🏴‍☠️%20Natalia%20Mathews&fontColor=F4D35E&fontSize=60&animation=fadeIn"/>
-
-<h1 align="center">⚓ Ahoy, Traveler! ⚓</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001f3f,50:005f73,100:0a9396&text=Natalia%20Mathews&fontColor=F4D35E&fontSize=52&fontAlignY=40&desc=AI/ML%20Engineer%20%7C%20Computer%20Vision%20%26%20Medical%20Imaging&descAlignY=62&descColor=E0E6ED&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=28&duration=2500&pause=1000&color=F4C430&center=true&vCenter=true&width=900&lines=🏴‍☠️+Captain+Natalia+Mathews;🌊+Sailing+the+Seas+of+Technology;🤖+AI+Explorer;🐋+Healthcare+AI+Researcher;⚓+Always+Learning+New+Horizons" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=0A9396&center=true&vCenter=true&width=780&lines=Building+explainable+AI+for+healthcare+and+climate+risk;Computer+Vision+%C2%B7+Medical+Imaging+%C2%B7+Deep+Learning;IEEE-track+researcher+%7C+Patent-pending+innovator;Currently+exploring+MONAI+%26+multimodal+fusion" />
 </p>
 
-
-
----
-
-# 🌊 About The Captain
-
-```text
-Name       : Natalia Mathews
-Role       : AI Enthusiast
-Location   : Somewhere Across The Digital Ocean 🌊
-Mission    : Building Technology That Creates Impact
-```
-
-🏴‍☠️ Passionate about AI, Machine Learning, Healthcare Technology 
-
-🌊 Exploring Medical Imaging and Deep Learning
-
-🎨 Artist • Reader • Traveler
-
-🧭 Always searching for new adventures in technology
-
----
+<p align="center">
+<a href="https://github.com/nattyix"><img src="https://img.shields.io/badge/GitHub-001F3F?style=for-the-badge&logo=github&logoColor=F4D35E"></a>
+<a href="https://www.linkedin.com/in/natalia-mathews21"><img src="https://img.shields.io/badge/LinkedIn-005F73?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:natmathews21@gmail.com"><img src="https://img.shields.io/badge/Email-0A9396?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-# ⚔️ Captain's Arsenal
+## About
+
+I'm an AI/ML engineer and researcher at the **Cambridge Institute of Technology, Bengaluru**, in the Department of Information Science and Engineering. My work sits at the intersection of computer vision, medical imaging, and environmental sensing — turning research prototypes into deployed, explainable systems.
+
+```text
+Focus areas   :  Medical Imaging AI · Computer Vision · Multimodal Fusion
+Currently     :  Learning MONAI · Building explainable deep learning systems
+Pursuing      :  A patent filing · IEEE conference publication (IGARSS 2026)
+Open to       :  Research collaborations, internships, and AI/ML roles
+```
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+## Toolkit
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://skillicons.dev/icons?i=sklearn" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=pytorch" />
-<img src="https://skillicons.dev/icons?i=opencv" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,flask,java,c,vscode,git,github&theme=dark" />
 </p>
 
----
+<div align="center">
 
-# 💎 Treasure Chest
+| Domain | Stack |
+|---|---|
+| **Languages** | Python · Java · C |
+| **Deep Learning** | PyTorch · TensorFlow · MONAI · scikit-learn |
+| **Computer Vision** | OpenCV · Grad-CAM / Score-CAM · SHAP |
+| **Deployment** | Flask · Streamlit · Render · FastAPI |
+| **Data & Geo** | PostgreSQL / PostGIS · Folium · Mapbox |
+| **Tooling** | Git · GitHub · VS Code · PyCharm |
 
-### 🧠 Fetal Brain Classification
-A deep learning-based medical imaging project focused on classifying fetal brain ultrasound images, leveraging AI techniques to support prenatal diagnosis and analysis.
+</div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-### 🦟 Automated Malaria Detection with 5G Telemedicine
-A smart healthcare solution that combines AI-based malaria detection with 5G telemedicine infrastructure, enabling rapid diagnosis and remote medical assistance in underserved areas.
+## Featured Work
 
----
+### 🧠 FetalGuard-AI
+Fetal ultrasound brain-plane classifier and preeclampsia risk scorer built on **MONAI DenseNet121**, achieving **89.75% accuracy** across 5-fold cross-validation. Deployed as a Flask application; developed as a demo for an in-progress journal submission.
+`Python` `MONAI` `DenseNet121` `Score-CAM` `Flask`
+📦 [`nattyix/Fetal_Ultrasound_AI`](https://github.com/nattyix/Fetal_Ultrasound_AI) · 🚀 Live on Render
+
+### 🌊 Ocean Sentinel — Maritime Anomaly Detection
+A final-year systems project detecting anomalous vessel behavior in real time, combining **Isolation Forest and a PyTorch LSTM** over PostGIS geospatial data, with a React + Mapbox front end and a Raspberry Pi Zero 2W hardware prototype. Documented in an IEEE-style systems paper.
+`FastAPI` `PostgreSQL/PostGIS` `PyTorch` `React` `Mapbox`
+
+### 🦟 Malaria Cell Detection + 5G Telemedicine
+Transfer-learning classifier using **MobileNetV2** for automated malaria cell detection, framed around 5G-enabled remote diagnosis for underserved regions. Co-authored IEEE-formatted paper prepared for conference submission.
+`Python` `MobileNetV2` `Flask` `Keras`
+
+### 📡 Network Intrusion & Anomaly Detection
+Two complementary security projects: a CICIDS2017-based intrusion detection system (Random Forest + LSTM) with a recruiter-facing Streamlit dashboard, and a lightweight network usage anomaly detector built on Isolation Forest.
+`Python` `Scikit-learn` `Streamlit`
 
 ### 📡 LAN Notify
 A local network communication system that enables instant notifications and messaging across devices connected within the same LAN environment.
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-### 🧠 Brain Tumor Detection
-A deep learning-powered medical imaging system that analyzes MRI scans to detect and classify brain tumors, assisting healthcare professionals in diagnosis.
+## Research & Publications
 
----
-
-### 🐢 Morse Code Converter
-Convert messages to and from Morse code.
-
-
-
----
+- 📄 *Automated Malaria Cell Detection Using MobileNetV2 Transfer Learning and 5G Telemedicine Deployment* — IEEE-formatted, prepared for conference submission
+- 📄 FetalGuard-AI journal paper — in progress, IEEEtran format
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-# 📊 Ocean Statistics
+## GitHub Activity
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nattyix&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyix&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nattyix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=001F3F&title_color=F4D35E&icon_color=0A9396"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyix&layout=compact&theme=tokyonight&hide_border=true&bg_color=001F3F&title_color=F4D35E"/>
 </p>
-
----
-
-# 🏝️ Captain's Activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyix&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyix&theme=tokyonight&hide_border=true&background=001F3F&ring=0A9396&fire=F4D35E"/>
 </p>
-
----
-
-# 🐍 Sea Serpent of Contributions
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
-
-# ⚓ Current Voyage
-
-```text
-🌊 Learning MONAI
-🤖 Medical Imaging AI
-🐋 Deep Learning
-⚓ Open Source Exploration
-🧭 Building Real-World AI Projects
-```
-
----
-
-# 🦜 Message In A Bottle
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 <p align="center">
-
-<a href="https://github.com/nattyix">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="www.linkedin.com/in/natalia-mathews21 ">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="natmathews21@gmail.com ">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
-</a>
-
+<i>"Every dataset is an ocean — the real work is in how deep you're willing to dive."</i>
 </p>
 
----
-
-<p align="center">
-⚓ "Not all treasure is silver and gold, mate. Sometimes it's knowledge."
-</p>
-
-<p align="center">
-🌙 May your code compile and your bugs sink to the depths 🌊
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:001f3f,50:005f73,100:0a9396"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:001f3f,50:005f73,100:0a9396"/>
