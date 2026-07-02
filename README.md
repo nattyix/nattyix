@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001f3f,50:005f73,100:0a9396&text=Natalia%20Mathews&fontColor=F4D35E&fontSize=52&fontAlignY=40&desc=AI/ML%20Engineer%20%7C%20Computer%20Vision%20%26%20Medical%20Imaging&descAlignY=62&descColor=E0E6ED&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=0A9396&center=true&vCenter=true&width=780&lines=Building+explainable+AI+for+healthcare+and+climate+risk;Computer+Vision+%C2%B7+Medical+Imaging+%C2%B7+Deep+Learning;IEEE-track+researcher+%7C+Patent-pending+innovator;Currently+exploring+MONAI+%26+multimodal+fusion" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=0A9396&center=true&vCenter=true&width=780&lines=Building+explainable+AI+for+healthcare+and+beyond;Computer+Vision+%C2%B7+Medical+Imaging+%C2%B7+Deep+Learning;Turning+research+prototypes+into+deployed+systems;Currently+exploring+MONAI+%26+multimodal+fusion" />
 </p>
 
 <p align="center">
@@ -19,7 +19,6 @@ I'm an AI/ML engineer and researcher at the **Cambridge Institute of Technology,
 ```text
 Focus areas   :  Medical Imaging AI · Computer Vision · Multimodal Fusion
 Currently     :  Learning MONAI · Building explainable deep learning systems
-Pursuing      :  A patent filing · IEEE conference publication (IGARSS 2026)
 Open to       :  Research collaborations, internships, and AI/ML roles
 ```
 
@@ -49,16 +48,16 @@ Open to       :  Research collaborations, internships, and AI/ML roles
 ## Featured Work
 
 ### 🧠 FetalGuard-AI
-Fetal ultrasound brain-plane classifier and preeclampsia risk scorer built on **MONAI DenseNet121**, achieving **89.75% accuracy** across 5-fold cross-validation. Deployed as a Flask application; developed as a demo for an in-progress journal submission.
+Fetal ultrasound brain-plane classifier and preeclampsia risk scorer built on **MONAI DenseNet121**, achieving **89.75% accuracy** across 5-fold cross-validation. Deployed as a Flask application.
 `Python` `MONAI` `DenseNet121` `Score-CAM` `Flask`
 📦 [`nattyix/Fetal_Ultrasound_AI`](https://github.com/nattyix/Fetal_Ultrasound_AI) · 🚀 Live on Render
 
 ### 🌊 Ocean Sentinel — Maritime Anomaly Detection
-A final-year systems project detecting anomalous vessel behavior in real time, combining **Isolation Forest and a PyTorch LSTM** over PostGIS geospatial data, with a React + Mapbox front end and a Raspberry Pi Zero 2W hardware prototype. Documented in an IEEE-style systems paper.
+A final-year systems project detecting anomalous vessel behavior in real time, combining **Isolation Forest and a PyTorch LSTM** over PostGIS geospatial data, with a React + Mapbox front end and a Raspberry Pi Zero 2W hardware prototype.
 `FastAPI` `PostgreSQL/PostGIS` `PyTorch` `React` `Mapbox`
 
 ### 🦟 Malaria Cell Detection + 5G Telemedicine
-Transfer-learning classifier using **MobileNetV2** for automated malaria cell detection, framed around 5G-enabled remote diagnosis for underserved regions. Co-authored IEEE-formatted paper prepared for conference submission.
+Transfer-learning classifier using **MobileNetV2** for automated malaria cell detection, framed around 5G-enabled remote diagnosis for underserved regions.
 `Python` `MobileNetV2` `Flask` `Keras`
 
 ### 📡 Network Intrusion & Anomaly Detection
@@ -67,13 +66,6 @@ Two complementary security projects: a CICIDS2017-based intrusion detection syst
 
 ### 📡 LAN Notify
 A local network communication system that enables instant notifications and messaging across devices connected within the same LAN environment.
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-
-## Research & Publications
-
-- 📄 *Automated Malaria Cell Detection Using MobileNetV2 Transfer Learning and 5G Telemedicine Deployment* — IEEE-formatted, prepared for conference submission
-- 📄 FetalGuard-AI journal paper — in progress, IEEEtran format
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
