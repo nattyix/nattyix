@@ -1,11 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001f3f,50:005f73,100:0a9396&text=Natalia%20Mathews&fontColor=F4D35E&fontSize=52&fontAlignY=35&desc=Navigating%20the%20depths%20of%20AI%20%26%20Machine%20Learning&descAlignY=58&descColor=E0E6ED&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:001f3f,50:005f73,100:0a9396&text=Natalia%20Mathews&fontColor=F4D35E&fontSize=48&fontAlignY=42&animation=fadeIn"/>
 
 <p align="center">
 <b>AI/ML Engineer · Computer Vision & Medical Imaging</b>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=0A9396&center=true&vCenter=true&width=780&lines=Charting+a+course+through+data%2C+one+model+at+a+time;Computer+Vision+%C2%B7+Medical+Imaging+%C2%B7+Deep+Learning;Turning+research+prototypes+into+deployed+systems;Currently+exploring+MONAI+%26+multimodal+fusion" />
+<i>Charting a course through data, one model at a time.</i><br/>
+<sub>Computer Vision · Medical Imaging · Deep Learning</sub>
 </p>
 
 <p align="center">
@@ -13,29 +14,6 @@
 <a href="https://www.linkedin.com/in/natalia-mathews21"><img src="https://img.shields.io/badge/LinkedIn-005F73?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:natmathews21@gmail.com"><img src="https://img.shields.io/badge/Email-0A9396?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-
-<pre align="center">
-              • • •
-           •   •   •
-          •     •     •
-           •   •   •
-              • • •
-                •
-                •
-                •
-      • • • • • • • • • • •
-      •         •         •
-       •        •        •
-        •       •       •
-         •      •      •
-          •     •     •
-           •    •    •
-            •   •   •
-             •• • ••
-               •••
-</pre>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
@@ -95,12 +73,12 @@ A local network communication system that enables instant notifications and mess
 ## GitHub Activity
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nattyix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=001F3F&title_color=F4D35E&icon_color=0A9396"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyix&layout=compact&theme=tokyonight&hide_border=true&bg_color=001F3F&title_color=F4D35E"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nattyix&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyix&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyix&theme=tokyonight&hide_border=true&background=001F3F&ring=0A9396&fire=F4D35E"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyix&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -110,7 +88,7 @@ A local network communication system that enables instant notifications and mess
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 <p align="center">
-<i>"Every dataset is an ocean — the real work is in how deep you're willing to dive."</i>
+<i>"Every dataset is an ocean, the real work is in how deep you're willing to dive."</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:001f3f,50:005f73,100:0a9396"/>
