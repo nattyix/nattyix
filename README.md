@@ -16,9 +16,32 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
+<pre align="center">
+              • • •
+           •   •   •
+          •     •     •
+           •   •   •
+              • • •
+                •
+                •
+                •
+      • • • • • • • • • • •
+      •         •         •
+       •        •        •
+        •       •       •
+         •      •      •
+          •     •     •
+           •    •    •
+            •   •   •
+             •• • ••
+               •••
+</pre>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
 ## About
 
-Like the ocean, good AI work runs deeper than the surface. I'm an AI/ML engineer and researcher at the **Cambridge Institute of Technology, Bengaluru**, in the Department of Information Science and Engineering, working at the intersection of computer vision, medical imaging, and environmental sensing — turning research prototypes into deployed, explainable systems.
+Like the ocean, good AI work runs deeper than the surface. I'm a student working at the intersection of computer vision, medical imaging, and environmental sensing — turning research prototypes into deployed, explainable systems.
 
 ```text
 Focus areas   :  Medical Imaging AI · Computer Vision · Multimodal Fusion
@@ -55,10 +78,6 @@ Open to       :  Research collaborations, internships, and AI/ML roles
 Fetal ultrasound brain-plane classifier and preeclampsia risk scorer built on **MONAI DenseNet121**, achieving **89.75% accuracy** across 5-fold cross-validation. Deployed as a Flask application.
 `Python` `MONAI` `DenseNet121` `Score-CAM` `Flask`
 📦 [`nattyix/Fetal_Ultrasound_AI`](https://github.com/nattyix/Fetal_Ultrasound_AI) · 🚀 Live on Render
-
-### 🌊 Ocean Sentinel — Maritime Anomaly Detection
-A final-year systems project detecting anomalous vessel behavior in real time, combining **Isolation Forest and a PyTorch LSTM** over PostGIS geospatial data, with a React + Mapbox front end and a Raspberry Pi Zero 2W hardware prototype.
-`FastAPI` `PostgreSQL/PostGIS` `PyTorch` `React` `Mapbox`
 
 ### 🦟 Malaria Cell Detection + 5G Telemedicine
 Transfer-learning classifier using **MobileNetV2** for automated malaria cell detection, framed around 5G-enabled remote diagnosis for underserved regions.
