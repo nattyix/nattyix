@@ -61,9 +61,6 @@ Fetal ultrasound brain-plane classifier and preeclampsia risk scorer built on **
 Transfer-learning classifier using **MobileNetV2** for automated malaria cell detection, framed around 5G-enabled remote diagnosis for underserved regions.
 `Python` `MobileNetV2` `Flask` `Keras`
 
-### 📡 Network Intrusion & Anomaly Detection
-Two complementary security projects: a CICIDS2017-based intrusion detection system (Random Forest + LSTM) with a recruiter-facing Streamlit dashboard, and a lightweight network usage anomaly detector built on Isolation Forest.
-`Python` `Scikit-learn` `Streamlit`
 
 ### 📡 LAN Notify
 A local network communication system that enables instant notifications and messaging across devices connected within the same LAN environment.
