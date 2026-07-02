@@ -1,13 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:001f3f,50:005f73,100:0a9396&text=Natalia%20Mathews&fontColor=F4D35E&fontSize=48&fontAlignY=42&animation=fadeIn"/>
 
-<p align="center">
-<b>AI/ML Engineer · Computer Vision & Medical Imaging</b>
-</p>
 
-<p align="center">
-<i>Charting a course through data, one model at a time.</i><br/>
-<sub>Computer Vision · Medical Imaging · Deep Learning</sub>
-</p>
 
 <p align="center">
 <a href="https://github.com/nattyix"><img src="https://img.shields.io/badge/GitHub-001F3F?style=for-the-badge&logo=github&logoColor=F4D35E"></a>
