@@ -1,7 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001f3f,50:005f73,100:0a9396&text=Natalia%20Mathews&fontColor=F4D35E&fontSize=52&fontAlignY=40&desc=AI/ML%20Engineer%20%7C%20Computer%20Vision%20%26%20Medical%20Imaging&descAlignY=62&descColor=E0E6ED&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001f3f,50:005f73,100:0a9396&text=Natalia%20Mathews&fontColor=F4D35E&fontSize=52&fontAlignY=35&desc=Navigating%20the%20depths%20of%20AI%20%26%20Machine%20Learning&descAlignY=58&descColor=E0E6ED&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=0A9396&center=true&vCenter=true&width=780&lines=Building+explainable+AI+for+healthcare+and+beyond;Computer+Vision+%C2%B7+Medical+Imaging+%C2%B7+Deep+Learning;Turning+research+prototypes+into+deployed+systems;Currently+exploring+MONAI+%26+multimodal+fusion" />
+<b>AI/ML Engineer · Computer Vision & Medical Imaging</b>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=0A9396&center=true&vCenter=true&width=780&lines=Charting+a+course+through+data%2C+one+model+at+a+time;Computer+Vision+%C2%B7+Medical+Imaging+%C2%B7+Deep+Learning;Turning+research+prototypes+into+deployed+systems;Currently+exploring+MONAI+%26+multimodal+fusion" />
 </p>
 
 <p align="center">
@@ -14,7 +18,7 @@
 
 ## About
 
-I'm an AI/ML engineer and researcher at the **Cambridge Institute of Technology, Bengaluru**, in the Department of Information Science and Engineering. My work sits at the intersection of computer vision, medical imaging, and environmental sensing — turning research prototypes into deployed, explainable systems.
+Like the ocean, good AI work runs deeper than the surface. I'm an AI/ML engineer and researcher at the **Cambridge Institute of Technology, Bengaluru**, in the Department of Information Science and Engineering, working at the intersection of computer vision, medical imaging, and environmental sensing — turning research prototypes into deployed, explainable systems.
 
 ```text
 Focus areas   :  Medical Imaging AI · Computer Vision · Multimodal Fusion
