@@ -46,7 +46,7 @@ Open to       :  Research collaborations, internships, and AI/ML roles
 ### 🧠 FetalGuard-AI
 Fetal ultrasound brain-plane classifier and preeclampsia risk scorer built on **MONAI DenseNet121**, achieving **89.75% accuracy** across 5-fold cross-validation. Deployed as a Flask application.
 `Python` `MONAI` `DenseNet121` `Score-CAM` `Flask`
-📦 [`nattyix/Fetal_Ultrasound_AI`](https://github.com/nattyix/Fetal_Ultrasound_AI) · 🚀 Live on Render
+📦 [`nattyix/Fetal_Ultrasound_AI`](https://github.com/nattyix/Fetal_Ultrasound_AI) · Live on Render
 
 ### 🦟 Malaria Cell Detection + 5G Telemedicine
 Transfer-learning classifier using **MobileNetV2** for automated malaria cell detection, framed around 5G-enabled remote diagnosis for underserved regions.
