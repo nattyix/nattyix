@@ -1,5 +1,5 @@
 <h1 align="center">Natalia Mathews</h1>
-<p align="center"><sub>AI/ML Engineer · Computer Vision · Medical Imaging</sub></p>
+<p align="center"><sub>Computer Vision · Medical Imaging · Multimodal AI</sub></p>
 
 <p align="center">
 <img src="assets/adam.png" width="100%" />
@@ -7,156 +7,90 @@
 
 <br>
 
-Final-year Information Science & Engineering student at Cambridge Institute of Technology, Bengaluru. I build deep learning systems and then spend more time trying to break them than I did building them — explainability, calibration, catching the bug before a reviewer does.
+I build AI systems that turn complex visual data into useful decisions.
 
-**Focus** — Computer Vision · Medical Imaging · Multimodal Fusion
-**Currently** — learning MONAI internals, tuning thresholds
-**Open to** — research collaborations, internships, AI/ML roles
+Final-year Information Science & Engineering student focused on computer vision, medical imaging, and multimodal AI. I like taking ideas from research papers and turning them into working systems.
 
-<br>
-
-## Stack
-
-`Python` `Java` `C` `PyTorch` `TensorFlow` `MONAI` `scikit-learn` `OpenCV` `Grad-CAM` `Score-CAM` `SHAP` `Flask` `Streamlit` `Render` `Git` `GitHub`
+<p align="center">
+<a href="https://github.com/nattyix">GitHub</a> ·
+<a href="https://www.linkedin.com/in/natalia-mathews21">LinkedIn</a> ·
+<a href="mailto:natmathews21@gmail.com">Email</a>
+</p>
 
 <br>
 
-## Projects
+## About
+
+I work at the intersection of computer vision, medical imaging, and applied machine learning — especially when models need to be interpretable, reliable, and useful outside a notebook.
+
+`Computer Vision` `Medical Imaging` `Multimodal AI` `Explainable AI` `Deep Learning`
+
+<br>
+
+## Proof
 
 <table>
 <tr>
-<td width="100%">
-
-**[fetalguard-ai](https://github.com/nattyix/Fetal_Ultrasound_AI)**
-Fetal ultrasound brain-plane classifier and preeclampsia risk scorer on MONAI DenseNet121, 5-fold cross-validation, Score-CAM for interpretability. Deployed on Render.
-`Python` `MONAI` `DenseNet121` `Score-CAM` `Flask`
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**malaria-detect**
-Transfer-learning classifier for malaria cell detection using MobileNetV2, framed around 5G-enabled remote diagnosis for underserved regions.
-`Python` `MobileNetV2` `Flask` `Keras`
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**wildfire-ai**
-Multimodal wildfire detection and spread forecasting system — EfficientNet-B0 for satellite imagery, XGBoost and an LSTM forecaster for risk prediction, plus a cellular automaton simulator for spread modeling. Deployed on Streamlit Cloud and Hugging Face Spaces.
-`Python` `EfficientNet-B0` `XGBoost` `LSTM` `Streamlit`
-
-</td>
+<td align="center" width="25%"><b>89.75%</b><br><sub>cross-validation accuracy — FetalGuard-AI</sub></td>
+<td align="center" width="25%"><b>27,558</b><br><sub>medical images processed — malaria detection</sub></td>
+<td align="center" width="25%"><b>~94%</b><br><sub>validation accuracy — malaria classifier</sub></td>
+<td align="center" width="25%"><b>5G</b><br><sub>remote diagnosis deployment concept</sub></td>
 </tr>
 </table>
 
 <br>
 
-<p align="center">
+## Stack
 
-```
-                                                                                    ::
-                                                                                   :.
-                                                                                  :.    .
-                                                                                 :..  .:
-                                                                                :.:  :..
-                                                                               ...  :.:
-                                                                             .::.  :.:
-                                                                            .::;.::.:  :.
-                                                                           .:;;:;..;  X;
-                                                                          ::;:;:.x:  +x.
-                                                                         :;::;:..: .+;.
-                                                                       .;;;;:.::  :;+.
-                                                                      :++;;.;;. :.;+:;
-                                                                    :;;;;.;;;;.:.X;::
-                                                                  .:++;.;;;;::.:++::;
-                                                                .:;;:;+++::::.++::::
-                                                              .;;;:x+;;.:..:++:::;+
-                                                             ;XX;X$x..:  ;x+;::.+x
-                                                           ;$$$&x:::..;x$X+:.:++ ..
-                                                          +x&$+;:;+X$X;:...;+: .;.
-                                                        ..++XX+X$X+;:. .:;;;:.;;
-                                                       ...+++$x;::  :+;;x+.:+;.
-                                                      .:::.+&X+..;X$X+;..;;.::
-                                                     .;::.xXx;+$$x:.::;+;;:..::
-                                                     ;;:::.x$&$;;xXXXx+:.;;;;
-                                                    .x;;::X&x;$&$+:   :x;:..
-                                                    ;xx::+$;$X:  ..:xx;::.:.
-                                                    +$x::;:+;:.:;++;:.:::.
-                                                   .xx;;:+xxxxx;:..:;;:.
-                                                   .xxx:+; +x:.;XX+:::.
-                                                   :X+.;..$xX$&$+;:..:.
-                                                   ;++:::;:xX+++++;.
-                                                  .Xx+x;++::;XXX+:....
-                                    :             +xx+x;.:.$&&X++++;+;:..
-                                  :x+;xx. :       ;++;;+;.   ;$X++;:...  .
-                                ;+x++;+xX+x.     :xxxx+;;:.;XXx+;;:+x+:::
-                 ;;.  .:   ;..   X+;;;;.;;;:     ;Xxxx:;;;::.:++;;::. ..::
-        ;+;     :x;:.:.:;:..  .; :$&&$$;XXxx     ;++;XX$x;;:::;x+;;::::.
-        .;;+;;.; x$:..  :XXx:    :x&$&$$X$X:     ;++.++;;+;:..x&&$+....:;
-           .++x+xxxX+;   xx:;     x+&&&$$$x     .:xx;;;:;+;:..:;;;+x+;:  :
-             .      X$: .  :;;:   ::+$&&&X      ::xx:xx:+x;:;x&&$X:   ;+.
-                     +$.::.     +xx$xXxXx;.  .  :;x+::+:.;;:   :;++++.  x
-                       ;x;x    .;x++x++++;    .::.$+::x;xX:  ;Xx;.  :;;
-                         +XXxx+  ::::::..   .:. .;X::X;::+;;XX;::;:.   :
-                        :  +XXXXx:     :: .++ ..:X+.+;::;;....;+. :;
-                    :..;:   X$$&+:;+:+++++;:x;.;x+::+x:.;:  .;  .
-                 . :.  xX$$$$$$+;..x:  ;;++;:+xx;.:x+:++;:::
-              .;..;x+;;X&$xXXX$+::;x..:;+;;;;+; :;:+;x;++;;         ..
-            .:+::::;XXXXXXxxXXXX:;x;.;++;+Xx;        .;Xx;+;.       .
-           .xxxXxXxx$X$XxxX$XX$x;x:.:+;;+::.             +$X+;:.;. :+;:
-            x$+++++XX$$XXxxxX$XX+ .:x:.;+;  ..                :;;x&$$;
-            +XxXXx+;;:   .;+;+x:.:;;;;;;....:.
-            :+xxxx+       :++::.;+:. ;;:;Xx+:
-             +xxxx;.    :xX:;;xx: :X;:::. :;:
-             :+++xx    ;xx+X;x.:;X+::;. :Xx++;++;
-              ;xxx:   ;;+x;x;:+;:::; .x&X+:.
-              ;XX$   x;X;;x;;;:;:.  $x;x$Xx+;;:.
-             .+$$x. ;++x+:;:. ; :+x::&&x:...::.
-              :.   :X;+:+;.:: :$+;++;;:+Xx+;;:::
-                  :xX:;.:;;:X+.&X;;;:;:::  ..
-                 :xx;:x ++x;x$Xxx++::..::::::.
-                .X$+:.x+;X&+x$xx+::xxx+.
-                +++::.xx$;+$;++::x;:.::..::.
-               :;;::x++;x+.$+:;: :.:;.
-              .;.:.:$x$.:+::x:::
-              :.:.+;$+$;.;x.;;:..
-             :...x$+$X+X .+:.;: :
-             .:;;&x;X&.&+.;+:::
-            ;;xxXX+:+X:+X:.x:::
-           .x&$+x&::;X:.x+ x:::
-           ;$&x:+$:.:X+.;x.x:.:
-           xx&+:;&;..+X.:;;;;.
-          .x;&+..XX..;+;:;::;
-          ;;;x+. Xx:.;:+::: ;
-         .;:+;;. xx: ;.+::;
-         :;:x;:. +$; +.;:;.
-        .;;:x;;. +x+.+:.:;
-        :+;:;+;..++;.+; ;
-        :+::;+:..x;:.;+ :
-       .+;;::;:: x:::;;
-       :;+;::+:..X;::+
-      .::;:::...:+;.;.
-      :;::::; .:+;:::
-      :;::::; ::+;.;.
-     .:;;;.:. :;+:;.
-     :;::;.:  ;+: .
-     ::;:::: :++
-    ::;.;.;: +x:
-    ::. ;.:  X;
-   ... :.:: x;.
-   :.. : :  +
-  ..;  .:  .
-  ::  .:.
- ..   :
- :   :
-:   ..
-```
+**Languages**
+`Python` `Java` `C`
 
-</p>
+**AI / ML**
+`PyTorch` `TensorFlow` `MONAI` `Keras` `scikit-learn` `XGBoost`
+
+**Computer Vision**
+`OpenCV` `Grad-CAM` `Score-CAM` `SHAP`
+
+**Deployment**
+`Flask` `Streamlit` `Render` `Git` `GitHub`
+
+<br>
+
+## Projects
+
+### 01 — FetalGuard-AI
+Fetal ultrasound brain-plane classification and preeclampsia risk scoring.
+
+- Brain-plane classification and risk prediction on MONAI DenseNet121
+- 5-fold cross-validation
+- Explainability via Score-CAM
+
+`PyTorch` `MONAI` `DenseNet121` `Score-CAM`
+→ [GitHub](https://github.com/nattyix/Fetal_Ultrasound_AI) · Live on Render
+
+### 02 — Malaria Detection
+Deep-learning malaria cell classification for remote diagnosis.
+
+- Trained on the NIH/LHNCBC malaria cell dataset — 27,558 images
+- ~94% validation accuracy
+- Framed around 5G-enabled remote healthcare delivery
+
+`Python` `MobileNetV2` `TensorFlow/Keras` `Flask`
+
+### 03 — Wildfire-AI
+A multimodal wildfire prediction system — not just another image classifier.
+
+- EfficientNet-B0 on satellite imagery
+- XGBoost + LSTM forecaster fusing environmental and temporal data
+- Cellular automaton simulator for spread modeling
+
+`Python` `EfficientNet-B0` `XGBoost` `LSTM` `Streamlit`
+
+<br>
+
+## Currently exploring
+
+`Java + DSA` `Multimodal AI` `Model Explainability`
 
 <br>
 
@@ -176,9 +110,7 @@ Multimodal wildfire detection and spread forecasting system — EfficientNet-B0 
 <br>
 
 <p align="center">
-<a href="https://github.com/nattyix">GitHub</a> ·
-<a href="https://www.linkedin.com/in/natalia-mathews21">LinkedIn</a> ·
-<a href="mailto:natmathews21@gmail.com">Email</a>
+<sub>Building intelligent systems from pixels, data, and ideas.</sub>
 </p>
 
 <p align="center">
