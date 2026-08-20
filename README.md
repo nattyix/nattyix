@@ -2,7 +2,7 @@
 <p align="center"><sub>AI/ML Engineer · Computer Vision · Medical Imaging</sub></p>
 
 <p align="center">
-<img src="assets/hands-reaching.png" width="100%" />
+<img src="assets/adam.png" width="100%" />
 </p>
 
 <br>
@@ -141,6 +141,14 @@ MobileNetV2 transfer-learning classifier for malaria cell detection, framed arou
 <p align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nattyix&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E&border_color=00000000"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyix&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=8B949E&border_color=00000000"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyix&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <br>
