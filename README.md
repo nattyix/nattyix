@@ -1,4 +1,4 @@
-# natalia@dev:~$ whoami
+<h1 align="center">Natalia Mathews</h1>
 
 ```
                                                                                     ::
@@ -98,8 +98,6 @@
  :   :
 :   ..
 ```
-
-<p align="center"><sub>icarus. it worked until it didn't. rebuilding anyway.</sub></p>
 
 ---
 
