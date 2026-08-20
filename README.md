@@ -23,13 +23,35 @@ Final-year Information Science & Engineering student at Cambridge Institute of T
 
 ## Projects
 
+<table>
+<tr>
+<td width="100%">
+
 **[fetalguard-ai](https://github.com/nattyix/Fetal_Ultrasound_AI)**
 Fetal ultrasound brain-plane classifier and preeclampsia risk scorer on MONAI DenseNet121, 5-fold cross-validation, Score-CAM for interpretability. Deployed on Render.
 `Python` `MONAI` `DenseNet121` `Score-CAM` `Flask`
 
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 **malaria-detect**
-MobileNetV2 transfer-learning classifier for malaria cell detection, framed around 5G-enabled remote diagnosis for underserved regions.
+Transfer-learning classifier for malaria cell detection using MobileNetV2, framed around 5G-enabled remote diagnosis for underserved regions.
 `Python` `MobileNetV2` `Flask` `Keras`
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**wildfire-ai**
+Multimodal wildfire detection and spread forecasting system — EfficientNet-B0 for satellite imagery, XGBoost and an LSTM forecaster for risk prediction, plus a cellular automaton simulator for spread modeling. Deployed on Streamlit Cloud and Hugging Face Spaces.
+`Python` `EfficientNet-B0` `XGBoost` `LSTM` `Streamlit`
+
+</td>
+</tr>
+</table>
 
 <br>
 
