@@ -1,4 +1,39 @@
 <h1 align="center">Natalia Mathews</h1>
+<p align="center"><sub>AI/ML Engineer · Computer Vision · Medical Imaging</sub></p>
+
+<p align="center">
+<img src="assets/hands-reaching.png" width="100%" />
+</p>
+
+<br>
+
+Final-year Information Science & Engineering student at Cambridge Institute of Technology, Bengaluru. I build deep learning systems and then spend more time trying to break them than I did building them — explainability, calibration, catching the bug before a reviewer does.
+
+**Focus** — Computer Vision · Medical Imaging · Multimodal Fusion
+**Currently** — learning MONAI internals, tuning thresholds
+**Open to** — research collaborations, internships, AI/ML roles
+
+<br>
+
+## Stack
+
+`Python` `Java` `C` `PyTorch` `TensorFlow` `MONAI` `scikit-learn` `OpenCV` `Grad-CAM` `Score-CAM` `SHAP` `Flask` `Streamlit` `Render` `Git` `GitHub`
+
+<br>
+
+## Projects
+
+**[fetalguard-ai](https://github.com/nattyix/Fetal_Ultrasound_AI)**
+Fetal ultrasound brain-plane classifier and preeclampsia risk scorer on MONAI DenseNet121, 5-fold cross-validation, Score-CAM for interpretability. Deployed on Render.
+`Python` `MONAI` `DenseNet121` `Score-CAM` `Flask`
+
+**malaria-detect**
+MobileNetV2 transfer-learning classifier for malaria cell detection, framed around 5G-enabled remote diagnosis for underserved regions.
+`Python` `MobileNetV2` `Flask` `Keras`
+
+<br>
+
+<p align="center">
 
 ```
                                                                                     ::
@@ -99,105 +134,23 @@
 :   ..
 ```
 
----
-
-```
-┌──(natalia㉿localhost)-[~]
-└─$ cat about.md
-```
-
-Final-year Information Science & Engineering student at Cambridge Institute of Technology, Bengaluru. I build deep learning systems and then spend more time trying to break them than I did building them — explainability, calibration, and catching the bug before a reviewer does.
-
-```
-focus     : Computer Vision · Medical Imaging · Multimodal Fusion
-currently : learning MONAI internals, tuning thresholds
-open to   : research collabs, internships, AI/ML roles
-```
-
----
-
-```
-┌──(natalia㉿localhost)-[~]
-└─$ neofetch --no-color
-```
-
-```
-os            natalia.dev
-languages     Python, Java, C
-frameworks    PyTorch, TensorFlow, MONAI, scikit-learn
-vision        OpenCV, Grad-CAM, Score-CAM, SHAP
-deploy        Flask, Streamlit, Render
-tools         Git, GitHub, VS Code
-```
-
----
-
-```
-┌──(natalia㉿localhost)-[~/projects]
-└─$ ls -la
-```
-
-**`fetalguard-ai/`** — Fetal ultrasound brain-plane classifier + preeclampsia risk scorer on MONAI DenseNet121, 5-fold CV, Score-CAM for interpretability. Deployed on Render.
-`Python` `MONAI` `DenseNet121` `Score-CAM` `Flask`
-→ [`nattyix/Fetal_Ultrasound_AI`](https://github.com/nattyix/Fetal_Ultrasound_AI)
-
-**`malaria-detect/`** — MobileNetV2 transfer-learning classifier for malaria cell detection, framed around 5G-enabled remote diagnosis for underserved regions.
-`Python` `MobileNetV2` `Flask` `Keras`
-
-```
-┌──(natalia㉿localhost)-[~/projects]
-└─$ echo "more in progress — see pinned repos"
-```
-
----
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF">
 </p>
 
----
-
-```
-┌──(natalia㉿localhost)-[~]
-└─$ ./connect.sh
-```
+<br>
 
 <p align="center">
-<a href="https://github.com/nattyix"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
-<a href="https://www.linkedin.com/in/natalia-mathews21"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"></a>
-<a href="mailto:natmathews21@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF"></a>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=nattyix&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E&border_color=00000000"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyix&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=8B949E&border_color=00000000"/>
 </p>
 
----
+<br>
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nattyix&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&border_color=FFFFFF"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyix&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C9D1D9&border_color=FFFFFF"/>
+<a href="https://github.com/nattyix">GitHub</a> ·
+<a href="https://www.linkedin.com/in/natalia-mathews21">LinkedIn</a> ·
+<a href="mailto:natmathews21@gmail.com">Email</a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyix&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
+<sub><i>γνῶθι σεαυτόν</i> — know thyself</sub>
 </p>
-
----
-
-```
-┌──(natalia㉿localhost)-[~]
-└─$ cat quote.txt
-```
-
-```
-> every model lies until you interrogate it
-> every dataset hides its worst examples until you go looking
-> ship it, then break it yourself first
-```
