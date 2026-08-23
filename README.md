@@ -2,7 +2,7 @@
 <p align="center"><sub>Computer Vision · Medical Imaging · Multimodal AI</sub></p>
 
 <p align="center">
-<img src="assets/adam.png" width="100%" />
+<img src="assets/2hands ascii.jpg" width="100%" />
 </p>
 
 <br>
