@@ -108,9 +108,9 @@ A multimodal wildfire prediction system — not just another image classifier.
 <br>
 
 <p align="center">
-<sub>Building intelligent systems from pixels, data, and ideas.</sub>
+<sub>Curious about what lies beneath the surface.</sub>
 </p>
 
 <p align="center">
-<sub><i>γνῶθι σεαυτόν</i> — know thyself</sub>
+<sub><i>Aut viam inveniam aut faciam.</sub>
 </p>
