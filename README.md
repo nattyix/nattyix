@@ -1,5 +1,5 @@
 <h1 align="center">Natalia Mathews</h1>
-<p align="center"><sub>Computer Vision · Medical Imaging · Multimodal AI</sub></p>
+<p align="center"><sub>AI · Computer Vision · Software · Data</sub></p>
 
 <p align="center">
 <img src="assets/2hands ascii.jpg" width="100%" />
@@ -7,9 +7,9 @@
 
 <br>
 
-I build AI systems that turn complex visual data into useful decisions.
+I like making things I don't yet know how to make.. My interests tend to wander between AI, software, computer vision, data, and whatever else catches my attention. I’m usually happiest somewhere between “I wonder if this would work” and “well, now I have to find out.”
 
-Final-year Information Science & Engineering student focused on computer vision, medical imaging, and multimodal AI. I like taking ideas from research papers and turning them into working systems.
+
 
 <p align="center">
 <a href="https://github.com/nattyix">GitHub</a> ·
@@ -26,20 +26,6 @@ I work at the intersection of computer vision, medical imaging, and applied mach
 `Computer Vision` `Medical Imaging` `Multimodal AI` `Explainable AI` `Deep Learning`
 
 <br>
-
-## Proof
-
-<table>
-<tr>
-<td align="center" width="25%"><b>89.75%</b><br><sub>cross-validation accuracy — FetalGuard-AI</sub></td>
-<td align="center" width="25%"><b>27,558</b><br><sub>medical images processed — malaria detection</sub></td>
-<td align="center" width="25%"><b>~94%</b><br><sub>validation accuracy — malaria classifier</sub></td>
-<td align="center" width="25%"><b>5G</b><br><sub>remote diagnosis deployment concept</sub></td>
-</tr>
-</table>
-
-<br>
-
 ## Stack
 
 **Languages**
@@ -56,39 +42,9 @@ I work at the intersection of computer vision, medical imaging, and applied mach
 
 <br>
 
-## Projects
+## AT THE DESK
 
-### 01 — FetalGuard-AI
-Fetal ultrasound brain-plane classification and preeclampsia risk scoring.
-- Brain-plane classification and risk prediction on MONAI DenseNet121
-- 5-fold cross-validation
-- Explainability via Score-CAM
-
-`PyTorch` `MONAI` `DenseNet121` `Score-CAM`
-
-→ [GitHub](https://github.com/nattyix/Fetal_Ultrasound_AI) · Live on Render
-
-### 02 — Malaria Detection
-Deep-learning malaria cell classification for remote diagnosis.
-- Trained on the NIH/LHNCBC malaria cell dataset — 27,558 images
-- ~94% validation accuracy
-- Framed around 5G-enabled remote healthcare delivery
-
-`Python` `MobileNetV2` `TensorFlow/Keras` `Flask`
-
-### 03 — Wildfire-AI
-A multimodal wildfire prediction system — not just another image classifier.
-- EfficientNet-B0 on satellite imagery
-- XGBoost + LSTM forecaster fusing environmental and temporal data
-- Cellular automaton simulator for spread modeling
-
-`Python` `EfficientNet-B0` `XGBoost` `LSTM` `Streamlit`
-
-<br>
-
-## Currently exploring
-
-`Java + DSA` `Multimodal AI` `Model Explainability`
+`Java + DSA` `Multimodal AI` `Model Explainability` 
 
 <br>
 
