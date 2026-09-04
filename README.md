@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/2hands ascii.jpg" width="100%" />
+  <img src="assets/asciiartadam.png" width="100%" />
 </p>
 
 <br>
