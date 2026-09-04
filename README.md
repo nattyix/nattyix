@@ -66,7 +66,7 @@ I like picking up problems I don't fully understand, getting my hands dirty, and
 <br>
 
 <p align="center">
-  <sub><i>I hope the road stays long.</i></sub>
+  <sub><i>And so the search continues.</i></sub>
 </p>
 
 <p align="center">
