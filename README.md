@@ -26,6 +26,7 @@ I work at the intersection of computer vision, medical imaging, and applied mach
 `Computer Vision` `Medical Imaging` `Multimodal AI` `Explainable AI` `Deep Learning`
 
 <br>
+
 ## Stack
 
 **Languages**
@@ -53,9 +54,7 @@ I work at the intersection of computer vision, medical imaging, and applied mach
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyix&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=8B949E&border_color=00000000"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyix&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E"/>
-</p>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
