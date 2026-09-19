@@ -38,7 +38,7 @@ I like picking up problems I don't fully understand, getting my hands dirty, and
 `Python` `Java` `C`
 
 **AI / ML**  
-`PyTorch` `TensorFlow` `MONAI` `Keras` `scikit-learn` `XGBoost`
+`PyTorch` `TensorFlow` `Numpy` `Keras` `scikit-learn` `Pandas`
 
 **Computer Vision**  
 `OpenCV` `Grad-CAM` `Score-CAM` `SHAP`
@@ -54,16 +54,6 @@ I like picking up problems I don't fully understand, getting my hands dirty, and
 
 <br>
 
-## THE LOG
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nattyix&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-  />
-</p>
-
-<br>
 
 <p align="center">
   <sub><i>And so the search continues.</i></sub>
