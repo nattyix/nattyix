@@ -12,7 +12,7 @@
 
 I like making things I don't yet know how to make.
 
-My interests tend to wander between AI, software, computer vision, data, and whatever else catches my attention. I'm usually somewhere between “I wonder if this would work” and “well, now I have to find out.”
+My interests tend to wander between AI, software, computer vision, data, computer networks and whatever else catches my attention. I'm usually somewhere between “I wonder if this would work” and “well, now I have to find out.”
 
 <p align="center">
   <a href="https://github.com/nattyix">GitHub</a> ·
@@ -22,13 +22,8 @@ My interests tend to wander between AI, software, computer vision, data, and wha
 
 <br>
 
-## A LITTLE ABOUT ME
 
-I learn best by making things.
-
-I like picking up problems I don't fully understand, getting my hands dirty, and seeing where they lead. Sometimes that means AI or computer vision; sometimes it's algorithms, software, data, or something entirely different.
-
-`Computer Vision` `AI / ML` `Software` `Data` `Explainability`
+`Computer Vision` `AI / ML` `Software` `Data` `Data Science`
 
 <br>
 
@@ -50,7 +45,7 @@ I like picking up problems I don't fully understand, getting my hands dirty, and
 
 ## AT THE DESK
 
-`Java + DSA` &nbsp;&nbsp; `Multimodal AI` &nbsp;&nbsp; `Model Explainability`
+`Java + DSA` &nbsp;&nbsp; `AI/ML` &nbsp;&nbsp; `Data Science` &nbsp;&nbsp; `Computer Networks` &nbsp;&nbsp;
 
 <br>
 
