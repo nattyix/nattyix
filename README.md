@@ -1,7 +1,7 @@
 <h1 align="center">Natalia Mathews</h1>
 
 <p align="center">
-  <sub>AI · Computer Vision · Software · Data</sub>
+  <sub>AI/ML · Software · Data</sub>
 </p>
 
 <p align="center">
